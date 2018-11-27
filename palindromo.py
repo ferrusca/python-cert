@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 pali1 = 'Edipo lo pide' #length 13
 pali2 = 'Somos o no somos' #length 16
 pali3 = 'Anita lava la tina' #length 18
