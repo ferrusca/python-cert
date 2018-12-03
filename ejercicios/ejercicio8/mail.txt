@@ -1,0 +1,6 @@
+foo@bar
+foo@bar.com
+hola@mundo.com
+hola bye
+_a@a.com
+jorge@@a.com
