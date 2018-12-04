@@ -1,0 +1,15 @@
+Hora de ejecución: 2018-12-03 21:43:28.411753
+MD5 de archivo xml: c371cc77dd2e470032a694fe9ffc4a75
+SHA1 de archivo xml: cd48797e72c3b7cf549789a7fbfc7e493542a9fd
+Cantidad de hosts prendidos: 4826
+Cantidad de hosts apagados: 60687
+Cantidad de hosts con puerto 22 abierto: 1095
+Cantidad de hosts con puerto 53 abierto: 65
+Cantidad de hosts con puerto 80 abierto: 2008
+Cantidad de hosts con puerto 443 abierto: 1387
+Cantidad de hosts que tienen nombre de dominio: 12468
+Servidores HTTP usados: 4413
+Cuántos usan Apache: 521
+Cuántos honeypots (Dionaea) :1220
+Cuántos usan Nginx: 54
+Cuántos usan otros servicios: 754
